@@ -1,5 +1,11 @@
-## Hi there 👋
+# About Me
+🔭 I’m currently working on data integrations for work. Our data is in too many places for me to keep track of, yo.
 
+🌱 I’m currently learning JavaScript, APIs, python, and I'm sure a half-dozen other things.
+
+📫 How to reach me: I like new friends! Feel free to email me at **steppelively@gmail.com**
+
+😄 **Pronouns:** she/her (yeah, I know I listed that elsewhere, but I get misgendered frequently, so I figure repetition can't be a bad thing)
 <!--
 **SteppeLively/SteppeLively** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
